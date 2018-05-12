@@ -1,0 +1,39 @@
+_repo: The-Flying-Mercury_29166
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Frederick, Edmund
+    alias: Frederick, E. (Edmund)
+    birthdate: 1870
+    gutenberg_agent_id: '6450'
+    url: http://www.gutenberg.org/2009/agents/6450
+  - agent_name: Stuart, Bertha
+    birthdate: 1869
+    deathdate: 1953
+    gutenberg_agent_id: '33734'
+    url: http://www.gutenberg.org/2009/agents/33734
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingram, Eleanor M. (Eleanor Marie)
+    alias: Ingram, Eleanor Marie
+    birthdate: 1886
+    deathdate: 1921
+    gutenberg_agent_id: '26005'
+    url: http://www.gutenberg.org/2009/agents/26005
+description: ''
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Automobile racing -- Fiction'
+title: The Flying Mercury
+url: http://www.gutenberg.org/ebooks/29166
